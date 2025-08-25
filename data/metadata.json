@@ -1,0 +1,26 @@
+{
+    "columns": {
+        "species": {
+            "sdtype": "categorical"
+        },
+        "island": {
+            "sdtype": "categorical"
+        },
+        "bill_length_mm": {
+            "sdtype": "numerical"
+        },
+        "bill_depth_mm": {
+            "sdtype": "numerical"
+        },
+        "flipper_length_mm": {
+            "sdtype": "numerical"
+        },
+        "body_mass_g": {
+            "sdtype": "numerical"
+        },
+        "sex": {
+            "sdtype": "categorical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
